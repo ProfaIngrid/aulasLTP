@@ -1,5 +1,4 @@
-/*
-//crio uma variavel do tipo let 
+/*//crio uma variavel do tipo let 
 let nome = 'Maria';
 
 //exibo mensagem no console
@@ -12,10 +11,14 @@ nome = prompt("Qual o seu nome?");
 alert(`Ola ${nome}, boa noite`);
 */
 
-let num1 = parseFloat(prompt("Digite um número:"));
-let num2 = parseFloat(prompt("Digite outro valor:"));
+let soma = 1 + 2;
 
-let result = num1 + num2;
+let subtracao = 5 - 2;
 
-alert(result);
+let multiplicacao = 5 * 3;
+
+let divisao = 10 / 2;
+
+alert(soma); 
+
 
